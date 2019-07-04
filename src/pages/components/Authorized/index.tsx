@@ -1,0 +1,1 @@
+import Authorized from './Authorized'

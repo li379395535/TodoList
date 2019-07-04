@@ -1,0 +1,1 @@
+let CURRENT:string|string[]='NULL';

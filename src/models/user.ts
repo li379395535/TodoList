@@ -24,7 +24,7 @@ interface UserModelType{
 const UserModel:UserModelType = {
     namespace:'user',
     state:{
-        currentUser:{},
+        currentUser:undefined,
     },
     effects:{
         *fetch(_,{call,put}){

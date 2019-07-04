@@ -11,6 +11,7 @@
   "dependencies": {
     "antd": "^3.20.0",
     "dva": "^2.6.0-beta.6",
+    "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "redux": "^4.0.1",
